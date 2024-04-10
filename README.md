@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ecommerce](https://github.com/Er-shivam11/Ecommerce)
 
-- 🌱 I’m currently learning **DJANGO , DRF**
+- 🌱 I’m currently learning **AWS**
 
 - 🤝 I’m looking for help with [Video Editor AI](https://github.com/Er-shivam11/video_editor)
 
