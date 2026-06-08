@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Nirmal</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-shivam11&label=Profile%20views&color=0e75b6&style=flat" alt="er-shivam11" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ecommerce](https://github.com/Er-shivam11/Ecommerce)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Data engineering**
 
 - 🤝 I’m looking for help with [Video Editor AI](https://github.com/Er-shivam11/video_editor)
 
