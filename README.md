@@ -7,23 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/shivambytes" target="blank"><img src="https://img.shields.io/twitter/follow/shivambytes?logo=twitter&style=for-the-badge" alt="shivambytes" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce](https://github.com/Er-shivam11/Ecommerce)
+- 🔭 I’m currently working on [Luxmart-Ecommerce](https://github.com/Er-shivam11/fullstack-ecommerce-platform)
 
-- 🌱 I’m currently learning **Data engineering**
+- 🌱 I’m currently learning **Python Data engineering & AI**
 
 - 🤝 I’m looking for help with [Video Editor AI](https://github.com/Er-shivam11/video_editor)
 
-- 👨‍💻 All of my projects are available at [https://er-shivam11.github.io/shivamnirmal/](https://er-shivam11.github.io/shivamnirmal/)
-
-- 📝 I regularly write articles on [[PYTHON](https://github.com/Er-shivam11/PythonFundamentals-100DaysOfCode)]
-
-- 💬 Ask me about **PYTHON**
+- 📝 I regularly write articles on [[PYTHON BACKEND, APPLIED DATA AND AI](https://github.com/Er-shivam11/learn_build_apply)]
 
 - 📫 How to reach me **SHIVAMNIRMAL.097@GMAIL.COM**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PBfjdQFRCFQW-J6LVS24GxbZ20ERpnOf/view](https://drive.google.com/file/d/1PBfjdQFRCFQW-J6LVS24GxbZ20ERpnOf/view)
+- 📄 Know about my experiences-[RESUME](https://drive.google.com/file/d/1YJVvntTE6ip3Jq6bKQbWV1yT8w5r0zX_/view?usp=sharing)
 
-- ⚡ Fun fact **As a developer, I'm fluent in both binary and sarcasm - because sometimes even bugs need a good laugh before they get fixed**
+- ⚡ Fun fact **As a SDE, I'm fluent in both binary and sarcasm - because sometimes even bugs need a good laugh before they get fixed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
