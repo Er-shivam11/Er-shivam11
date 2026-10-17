@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Luxmart-Ecommerce](https://github.com/Er-shivam11/fullstack-ecommerce-platform)
 
-- 🌱 I’m currently learning **Python Data engineering & AI**
+- 🌱 I’m currently learning [Python Data engineering & AI](https://github.com/Er-shivam11/learn_build_apply/blob/main/3.Apply/DE_SDE_AI_IV_KIT/1.DE%2BDEV_REV_TOPICS.md)
 
 - 🤝 I’m looking for help with [Video Editor AI](https://github.com/Er-shivam11/video_editor)
 
